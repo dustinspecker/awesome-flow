@@ -26,6 +26,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [babel-plugin-transform-flow-strip-types](https://www.npmjs.com/package/babel-plugin-transform-flow-strip-types) - Strip flow type annotations from your output code.
 - [babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
+- [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow
 - [flow-remove-types](https://github.com/leebyron/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
 - [flow-typed](https://github.com/flowtype/flow-typed) - A central repository for Flow library definitions
