@@ -8,7 +8,7 @@
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
-## Table of Contents
+## Contents
 
 - [Integrations](#integrations)
 - [Tools](#tools)
