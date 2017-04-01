@@ -4,8 +4,6 @@
 
 > A list of awesome Flow integrations, tools, tutorials, etc.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 ## Contents
