@@ -27,7 +27,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow
 - [flow-remove-types](https://github.com/leebyron/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
-- [flow-typed](https://github.com/flowtype/flow-typed) - A central repository for Flow library definitions
+- [flow-typed](https://github.com/flowtype/flow-typed) - A central repository for Flow library definitions.
+- [flow-scripts](https://github.com/yangshun/flow-scripts) - Utility scripts for Flow.
 
 # Tutorials
 - [Mapping an Object](https://medium.com/@thejameskyle/flow-mapping-an-object-373d64c44592#.si9el6b29) - Learn to create Flow definitions
