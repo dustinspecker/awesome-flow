@@ -26,7 +26,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [babel-plugin-transform-flow-strip-types](https://www.npmjs.com/package/babel-plugin-transform-flow-strip-types) - Strip flow type annotations from your output code.
 - [babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
-- [database-types](https://github.com/gajus/database-types) – A generic type generator for various databases.
 - [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
 - [eslint-plugin-flow-vars](https://www.npmjs.com/package/eslint-plugin-flow-vars)
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow
@@ -38,7 +37,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flowtype-loader](https://github.com/torifat/flowtype-loader)
 - [flow-remove-types](https://www.npmjs.com/package/flow-remove-types)
 - [babel-plugin-flow-react-proptypes](https://www.npmjs.com/package/babel-plugin-flow-react-proptypes)
+
+# Packages / Helpers
+
+- [database-types](https://github.com/gajus/database-types) – A generic type generator for various databases.
 - [flow-static-land](https://www.npmjs.com/package/flow-static-land) - Implementation of common algebraic types in JavaScript + Flow
+- [flow-type-transformer](https://github.com/Dash-OS/flow-type-transformer) - Makes transforming values while retaining 100% Flow coverage dead simple.
 
 # Tutorials
 
