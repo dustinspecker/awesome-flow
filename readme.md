@@ -42,7 +42,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 # Tutorials
 
-- [Mapping an Object](https://medium.com/@thejameskyle/flow-mapping-an-object-373d64c44592#.si9el6b29) - Learn to create Flow definitions
+- [Mapping an Object](http://thejameskyle.com/flow-mapping-an-object.html) - Learn to create Flow definitions
 - [Setting up Flow when you've already got Babel in place](https://medium.freecodecamp.com/using-flow-with-babel-c04fdca8d14d#.f7fuf1fmf) - Learn to setup Flow with Babel
 - [Type safe graphs with Flow](https://medium.com/@gcanti/type-safe-graphs-with-flow-80fcbcd90c48)
 - [Higher kinded types with Flow](https://medium.com/@gcanti/higher-kinded-types-in-flow-275b657992b7)
