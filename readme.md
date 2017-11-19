@@ -44,6 +44,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-static-land](https://www.npmjs.com/package/flow-static-land) - Implementation of common algebraic types in JavaScript + Flow
 - [flow-type-transformer](https://github.com/Dash-OS/flow-type-transformer) - Makes transforming values while retaining 100% Flow coverage dead simple.
 
+# Packages w/ Flow
+
+> These are standard packages which export `.flow.js` files with their distribution and **provide at least 95% Flow Coverage.**  This allows users of Flow to benefit with Flow Coverage when used. 
+
+- [ioredis-utils](https://github.com/Dash-OS/ioredis-utils) - Simple tools to work with ioredis.
+- [task-handler](https://github.com/Dash-OS/task-handler) - A simple, dependency-free Task Manager to make handling of your Javascript Timers easier to work with.
+- [pubchan](https://github.com/Dash-OS/pubchan) - Simple yet powerful pub/sub channels.
+
 # Tutorials
 
 - [Mapping an Object](http://thejameskyle.com/flow-mapping-an-object.html) - Learn to create Flow definitions
