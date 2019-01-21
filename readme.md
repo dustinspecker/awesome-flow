@@ -32,6 +32,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-remove-types](https://github.com/flowtype/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
 - [flow-typed](https://github.com/flowtype/flow-typed) - A central repository for Flow library definitions.
 - [flow-scripts](https://github.com/yangshun/flow-scripts) - Utility scripts for Flow. Can generate naive stubs and finds unannotated files.
+- [gen-flow-files](https://github.com/ilyalesik/gen-flow-files) - Script for transform javascript files to flow definition files
 - [gulp-flowtype](https://github.com/charliedowler/gulp-flowtype)
 - [ember-flowtype](https://www.npmjs.com/package/ember-flowtype)
 - [flowtype-loader](https://github.com/torifat/flowtype-loader)
