@@ -38,6 +38,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flowtype-loader](https://github.com/torifat/flowtype-loader)
 - [flow-remove-types](https://www.npmjs.com/package/flow-remove-types)
 - [babel-plugin-flow-react-proptypes](https://www.npmjs.com/package/babel-plugin-flow-react-proptypes)
+- [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) generate flow types from [CSS Modules](https://github.com/css-modules/css-modules)
 
 # Packages / Helpers
 
