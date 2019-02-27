@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
 - [eslint-plugin-flow-vars](https://www.npmjs.com/package/eslint-plugin-flow-vars)
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow
+- [flowgen](https://github.com/joarwilk/flowgen) - Generate flowtype definition files from TypeScript
 - [flow-remove-types](https://github.com/flowtype/flow-remove-types) - Removes Flow type annotations from JavaScript files with speed and simplicity.
 - [flow-typed](https://github.com/flowtype/flow-typed) - A central repository for Flow library definitions.
 - [flow-scripts](https://github.com/yangshun/flow-scripts) - Utility scripts for Flow. Can generate naive stubs and finds unannotated files.
