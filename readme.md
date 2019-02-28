@@ -19,7 +19,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [nuclide](https://github.com/facebook/nuclide) - An open IDE for web and native mobile development, built on top of Atom [http://nuclide.io](http://nuclide.io)
 - [SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
 - [vim-flow](https://github.com/flowtype/vim-flow) - A vim plugin for Flow
-- [WebStorm: Using the Flow Type Checker](https://www.jetbrains.com/help/webstorm/2016.2/using-the-flow-type-checker.html)
+- [WebStorm: Using the Flow Type Checker](https://www.jetbrains.com/help/webstorm/using-the-flow-type-checker.html)
+- [IntelliJ: Using the Flow Type Checker](https://www.jetbrains.com/help/idea/using-the-flow-type-checker.html)
+- [PHPStorm: Using the Flow Type Checker](https://www.jetbrains.com/help/phpstorm/using-the-flow-type-checker.html)
 - [Flow | Nuclide](https://nuclide.io/docs/languages/flow/)
 
 # Tools
