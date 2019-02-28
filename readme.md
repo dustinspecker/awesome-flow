@@ -28,7 +28,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [@babel/preset-flow](https://www.npmjs.com/package/@babel/preset-flow) - Flow preset for babel.
 - [@babel/plugin-transform-flow-strip-types](https://www.npmjs.com/package/@babel/plugin-transform-flow-strip-types) - Strip flow type annotations from your output code. Included in preset.
 - [babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
-- [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
+- [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) - Get flow errors as eslint errors
 - [eslint-plugin-flow-vars](https://www.npmjs.com/package/eslint-plugin-flow-vars)
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow
 - [flowgen](https://github.com/joarwilk/flowgen) - Generate flowtype definition files from TypeScript
