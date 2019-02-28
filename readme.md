@@ -48,6 +48,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
 - [decoders](https://github.com/nvie/decoders) - 🛡 Type-safe data validation for Flow
 
+# Packages w/ Flow
+
+> These are standard packages which export `.flow.js` files with their distribution and **provide at least 95% Flow Coverage.**  This allows users of Flow to benefit with Flow Coverage when used. 
+
+- [ioredis-utils](https://github.com/Dash-OS/ioredis-utils) - Simple tools to work with ioredis.
+- [task-handler](https://github.com/Dash-OS/task-handler) - A simple, dependency-free Task Manager to make handling of your Javascript Timers easier to work with.
+- [pubchan](https://github.com/Dash-OS/pubchan) - Simple yet powerful pub/sub channels.
+
 # Tutorials
 
 - [Mapping an Object](http://thejameskyle.com/flow-mapping-an-object.html) - Learn to create Flow definitions
