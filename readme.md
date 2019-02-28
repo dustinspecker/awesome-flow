@@ -23,8 +23,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Flow | Nuclide](https://nuclide.io/docs/languages/flow/)
 
 # Tools
-
-- [babel-plugin-transform-flow-strip-types](https://www.npmjs.com/package/babel-plugin-transform-flow-strip-types) - Strip flow type annotations from your output code.
+- [@babel/preset-flow](https://www.npmjs.com/package/@babel/preset-flow) - Flow preset for babel.
+- [@babel/plugin-transform-flow-strip-types](https://www.npmjs.com/package/@babel/plugin-transform-flow-strip-types) - Strip flow type annotations from your output code. Included in preset.
 - [babel-plugin-typecheck](https://github.com/codemix/babel-plugin-typecheck) - Static and runtime type checking for JavaScript in the form of a Babel plugin.
 - [eslint-plugin-flowtype-errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Get flow errors as eslint errors
 - [eslint-plugin-flow-vars](https://www.npmjs.com/package/eslint-plugin-flow-vars)
