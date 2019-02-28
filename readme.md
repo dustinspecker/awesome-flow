@@ -45,7 +45,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [database-types](https://github.com/gajus/database-types) – A generic type generator for various databases.
 - [flow-static-land](https://www.npmjs.com/package/flow-static-land) - Implementation of common algebraic types in JavaScript + Flow
-- [flow-type-transformer](https://github.com/Dash-OS/flow-type-transformer) - Makes transforming values while retaining 100% Flow coverage dead simple.
 - [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
 - [decoders](https://github.com/nvie/decoders) - 🛡 Type-safe data validation for Flow
 
