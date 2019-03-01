@@ -14,14 +14,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Integrations
 
 - [flow-for-vscode](https://github.com/flowtype/flow-for-vscode) - Flow for Visual Studio Code.
-- [ide-flow](https://atom.io/packages/ide-flow) - Atom.io IDE support for Facebook Flow.
-- [nuclide](https://github.com/facebook/nuclide) - An open IDE for web and native mobile development, built on top of Atom [http://nuclide.io](http://nuclide.io).
+- [ide-flowtype](https://atom.io/packages/ide-flowtype) - Atom.io IDE support for Facebook Flow.
 - [SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
 - [vim-flow](https://github.com/flowtype/vim-flow) - A vim plugin for Flow.
 - [WebStorm: Using the Flow Type Checker](https://www.jetbrains.com/help/webstorm/using-the-flow-type-checker.html)
 - [IntelliJ: Using the Flow Type Checker](https://www.jetbrains.com/help/idea/using-the-flow-type-checker.html)
 - [PHPStorm: Using the Flow Type Checker](https://www.jetbrains.com/help/phpstorm/using-the-flow-type-checker.html)
-- [Flow | Nuclide](https://nuclide.io/docs/languages/flow/)
 
 ## Tools
 - [@babel/preset-flow](https://www.npmjs.com/package/@babel/preset-flow) - Flow preset for babel.
