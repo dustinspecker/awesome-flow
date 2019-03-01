@@ -24,7 +24,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## Tools
 - [@babel/preset-flow](https://www.npmjs.com/package/@babel/preset-flow) - Flow preset for babel.
 - [@babel/plugin-transform-flow-strip-types](https://www.npmjs.com/package/@babel/plugin-transform-flow-strip-types) - Strip flow type annotations from your output code. Included in preset.
-- [flow-runtime](https://github.com/codemix/flow-runtime) - Runtime type checking for Flow
+- [flow-runtime](https://github.com/codemix/flow-runtime) - Runtime type checking for Flow.
 - [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) - Get flow errors as eslint errors.
 - [flow](https://github.com/flowtype/flow-bin) - Binary wrapper for Flow.
 - [flowgen](https://github.com/joarwilk/flowgen) - Generate flowtype definition files from TypeScript.
@@ -38,8 +38,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [babel-plugin-flow-react-proptypes](https://www.npmjs.com/package/babel-plugin-flow-react-proptypes)
 - [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules).
 - [flow-coverage-report](https://github.com/rpl/flow-coverage-report) - Generate flow coverage reports in JSON, HTML and in the console.
-- [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) CLI tool to make working with monorepos easier.
-- [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) Generate Flow types from swagger file.
+- [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) - CLI tool to make working with monorepos easier.
+- [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) - Generate Flow types from swagger file.
 
 ## Packages / Helpers
 
