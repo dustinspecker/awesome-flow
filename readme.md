@@ -40,6 +40,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-coverage-report](https://github.com/rpl/flow-coverage-report) - Generate flow coverage reports in JSON, HTML and in the console.
 - [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) - CLI tool to make working with monorepos easier.
 - [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) - Generate Flow types from swagger file.
+- [javaflow](https://github.com/havardh/javaflow) - Java model to flowtype converter.
 
 ## Packages / Helpers
 
