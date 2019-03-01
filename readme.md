@@ -41,6 +41,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-mono-cli](https://github.com/ImmoweltGroup/flow-mono-cli) - CLI tool to make working with monorepos easier.
 - [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) - Generate Flow types from swagger file.
 - [javaflow](https://github.com/havardh/javaflow) - Java model to flowtype converter.
+- [thrift2flow](https://github.com/uber-web/thrift2flow) - Converts Thrift specs into Flow JavaScript type definitions.
 
 ## Packages / Helpers
 
