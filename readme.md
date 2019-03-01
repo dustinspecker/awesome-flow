@@ -1,7 +1,5 @@
 # Awesome Flow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://flowtype.org/assets/flow-logo.png" width="160" align="right" alt="flow">](http://flowtype.org)
-
 > A list of awesome Flow integrations, tools, tutorials, etc.
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
