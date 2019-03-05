@@ -64,6 +64,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Type Systems: Refinements explained](https://medium.com/@thejameskyle/type-systems-refinements-explained-26f713c6cc2a)
 - [Type Systems: Structural vs. Nominal typing explained](https://medium.com/@thejameskyle/type-systems-structural-vs-nominal-typing-explained-56511dd969f4)
 - [Redux and Flowtype](https://medium.com/@cdebotton/redux-and-flowtype-69ff1dd09036)
+- [Typing React and Redux](https://engineering.wework.com/adventures-in-static-typing-react-redux-flow-oh-my-284c5f74adac)
 - [Type checking state in React components with Flow](https://medium.com/@krob/type-checking-state-in-react-components-with-flow-f1f1ec84f395)
 - [Flow cheat sheet](https://www.saltycrane.com/flow-type-cheat-sheet/latest/)
 
