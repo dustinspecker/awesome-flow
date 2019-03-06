@@ -33,7 +33,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-scripts](https://github.com/yangshun/flow-scripts) - Utility scripts for Flow. Can generate naive stubs and finds unannotated files.
 - [gen-flow-files](https://github.com/ilyalesik/gen-flow-files) - Script for transform JavaScript files to flow definition files.
 - [gulp-flowtype](https://github.com/charliedowler/gulp-flowtype) - Run Facebook's Flow in your gulp pipeline.
-- [ember-flowtype](https://www.npmjs.com/package/ember-flowtype)- Integrate FlowType.JS into Ember.
+- [ember-flowtype](https://www.npmjs.com/package/ember-flowtype) - Integrate FlowType.JS into Ember.
 - [flowtype-loader](https://github.com/torifat/flowtype-loader) - Flow loader for webpack.
 - [babel-plugin-flow-react-proptypes](https://www.npmjs.com/package/babel-plugin-flow-react-proptypes) - A babel plugin to generate React PropTypes definitions from Flow type declarations.
 - [css-modules-flow-types](https://github.com/skovhus/css-modules-flow-types) - generate flow types from [CSS Modules](https://github.com/css-modules/css-modules).
