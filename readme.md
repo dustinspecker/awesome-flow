@@ -1,5 +1,7 @@
 # Awesome Flow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="flow.svg" align="right" width="100">](https://flow.org/)
+
 > A list of awesome Flow integrations, tools, tutorials, etc.
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
