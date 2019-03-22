@@ -51,6 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [flow-static-land](https://www.npmjs.com/package/flow-static-land) - Implementation of common algebraic types in JavaScript + Flow.
 - [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 - [decoders](https://github.com/nvie/decoders) - Type-safe data validation for Flow.
+- [flown](https://github.com/lttb/flown) - A set of type helpers and utilities for Flow.
 
 ## Tutorials
 
