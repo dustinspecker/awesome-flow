@@ -44,6 +44,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) - Generate Flow types from swagger file.
 - [javaflow](https://github.com/havardh/javaflow) - Java model to flowtype converter.
 - [thrift2flow](https://github.com/uber-web/thrift2flow) - Converts Thrift specs into Flow JavaScript type definitions.
+- [json-schema-to-flow-type](https://github.com/PassFort/json-schema-to-flow-type) - Convert JSON Schema to flow type definitions
 
 ## Packages / Helpers
 
@@ -70,7 +71,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Typing React and Redux](https://engineering.wework.com/adventures-in-static-typing-react-redux-flow-oh-my-284c5f74adac)
 - [Type checking state in React components with Flow](https://medium.com/@krob/type-checking-state-in-react-components-with-flow-f1f1ec84f395)
 - [Flow cheat sheet](https://www.saltycrane.com/flow-type-cheat-sheet/latest/)
-- [json-schema-to-flow-type](https://github.com/PassFort/json-schema-to-flow-type) - Convert JSON Schema to flow type definitions
 
 ## License
 
