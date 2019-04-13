@@ -44,7 +44,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [swagger-to-flowtype](https://github.com/yayoc/swagger-to-flowtype) - Generate Flow types from swagger file.
 - [javaflow](https://github.com/havardh/javaflow) - Java model to flowtype converter.
 - [thrift2flow](https://github.com/uber-web/thrift2flow) - Converts Thrift specs into Flow JavaScript type definitions.
-- [json-schema-to-flow-type](https://github.com/PassFort/json-schema-to-flow-type) - Convert JSON Schema to flow type definitions
+- [json-schema-to-flow-type](https://github.com/PassFort/json-schema-to-flow-type) - Convert JSON Schema to flow type definitions.
 
 ## Packages / Helpers
 
