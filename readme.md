@@ -45,6 +45,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [javaflow](https://github.com/havardh/javaflow) - Java model to flowtype converter.
 - [thrift2flow](https://github.com/uber-web/thrift2flow) - Converts Thrift specs into Flow JavaScript type definitions.
 - [json-schema-to-flow-type](https://github.com/PassFort/json-schema-to-flow-type) - Convert JSON Schema to flow type definitions.
+- [graphql-code-generator](https://graphql-code-generator.com/docs/plugins/flow) - Generate Flow types from GraphQL schema.
 
 ## Packages / Helpers
 
